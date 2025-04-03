@@ -1,0 +1,16 @@
+ID,Producto,Categoria,Precio,Cantidad,Fecha_Venta,Region
+1,Celular,Tecnología,500,3,2023-01-15,Norte
+2,Laptop,Tecnología,1000,2,2023-02-10,Sur
+3,Audífonos,Tecnología,50,10,2023-02-25,Norte
+4,Televisor,Electrodomésticos,700,1,2023-01-20,Este
+5,Refrigerador,Electrodomésticos,1200,1,2023-03-05,Sur
+6,Microondas,Electrodomésticos,300,5,2023-01-10,Oeste
+7,Mueble,Hogar,150,3,2023-02-15,Norte
+8,Silla,Hogar,100,4,2023-01-25,Este
+9,Cama,Hogar,500,2,2023-03-01,Oeste
+10,Escritorio,Hogar,200,6,2023-02-28,Norte
+11,Tableta,Tecnología,300,4,2023-01-18,Oeste
+12,Aire acondicionado,Electrodomésticos,800,2,2023-02-22,Norte
+13,Lámpara,Hogar,40,10,2023-03-12,Sur
+14,Mouse,Tecnología,30,15,2023-03-08,Oeste
+15,Lavadora,Electrodomésticos,1000,1,2023-01-05,Este 

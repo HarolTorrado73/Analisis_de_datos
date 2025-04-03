@@ -1,0 +1,16 @@
+ID,Nombre,Edad,Genero,Peso,Altura,Presion_Arterial,Colesterol,Region
+1,Juan,45,M,78,1.75,120/80,Normal,Norte
+2,Ana,34,F,65,1.68,130/85,Alto,Sur
+3,Carlos,50,M,90,1.80,140/90,Alto,Este
+4,Laura,29,F,55,1.60,110/70,Normal,Oeste
+5,Pedro,60,M,85,1.70,150/95,Alto,Norte
+6,María,40,F,70,1.65,125/80,Normal,Sur
+7,Diego,52,M,95,1.85,145/92,Alto,Este
+8,Lucía,37,F,60,1.62,115/75,Normal,Oeste
+9,Francisco,48,M,88,1.78,135/85,Alto,Norte
+10,Sofía,31,F,58,1.63,118/78,Normal,Sur
+11,Andrés,55,M,92,1.82,142/88,Alto,Este
+12,Claudia,43,F,68,1.67,128/82,Normal,Oeste
+13,Manuel,49,M,80,1.75,138/86,Alto,Norte
+14,Valeria,36,F,62,1.64,120/80,Normal,Sur
+15,Roberto,53,M,87,1.76,140/90,Alto,Este 
